@@ -31,7 +31,7 @@
         </form>
     </div>
     <div class="w-full md:1/3 p-4">
-        <p class="text-red-500">** Click row to add patient blood data **</p>
+        <p class="text-red-500">**  Click row to add patient blood data **</p>
         <livewire:patient-records-table>
     </div>
 </div>
